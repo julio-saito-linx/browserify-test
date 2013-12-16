@@ -1,0 +1,11 @@
+{
+  "undef": true,
+  "unused": true,
+  "laxcomma": true,
+
+  "globals": { 
+    "module": false,
+    "console": false,
+    "require": false
+  }
+}
